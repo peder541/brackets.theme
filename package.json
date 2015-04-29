@@ -1,0 +1,15 @@
+{
+    "name": "peder541.theme",
+    "title": "Ben Pedersen Theme",
+    "description": "This theme has Ben Pedersen's custom preferences",
+    "homepage": "https://github.com/peder541/brackets.theme",
+    "version": "1.0.0",
+    "author": "Ben Pedersen <peder541@umn.edu>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
